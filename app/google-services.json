@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "730442990286",
+    "firebase_url": "https://silentprint-a1ae9.firebaseio.com",
+    "project_id": "silentprint-a1ae9",
+    "storage_bucket": "silentprint-a1ae9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730442990286:android:062f17ddc5fa2aeb",
+        "android_client_info": {
+          "package_name": "com.asier.printtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730442990286-6rn7kqvfqdvos4rgk4kvsav34sqbi32h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.asier.printtest",
+            "certificate_hash": "7b712ea5e8fbdfd6c1a3a42193f44993de2eca6b"
+          }
+        },
+        {
+          "client_id": "730442990286-i25h4sc375m54ijbhsp05it1aer6fefc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNpUZ8ESLdhTZbw0aZKaLIBLxd0zHhqZo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730442990286-i25h4sc375m54ijbhsp05it1aer6fefc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

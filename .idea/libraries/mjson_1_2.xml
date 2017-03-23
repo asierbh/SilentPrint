@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="mjson-1.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.sharegov/mjson/1.2/30cf7e35ca86ffa21f1d1133da9c3ab079c22283/mjson-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.sharegov/mjson/1.2/9e78a367bdd81c77e07585e0f590445506587904/mjson-1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
